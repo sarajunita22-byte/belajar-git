@@ -1,3 +1,5 @@
 ﻿Ini catatan latihan Git pertama.
 
 Baris ini dibuat di branch fitur-latihan.
+
+Baris dari branch fitur-login.
