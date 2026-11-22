@@ -1,1 +1,3 @@
 ﻿Ini catatan latihan Git pertama.
+
+Baris ini dibuat di branch fitur-latihan.
